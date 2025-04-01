@@ -63,8 +63,6 @@ Open `SuperStoreSalesForecasting.ipynb` and execute the cells step by step.
 - Automate data integration between Jupyter and Power BI.
 - Deploy as a web app using Flask or Streamlit.
 
-## License
-This project is open-source and available under the **MIT License**.
 
 ---
 Feel free to contribute, raise issues, or suggest improvements! 🚀
