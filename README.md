@@ -45,18 +45,6 @@ Open `SuperStoreSalesForecasting.ipynb` and execute the cells step by step.
 3. **Export Forecast Results:** Save predictions and integrate them into Power BI.
 4. **Analyze & Present:** Use the Power BI dashboard to interactively analyze sales trends.
 
-## File Structure
-```
-📁 sales-forecasting
-│── 📁 data
-│   ├── sales_data.csv  # Historical sales dataset
-│── 📁 notebooks
-│   ├── SuperStoreSalesForecasting.ipynb  # Jupyter Notebook for forecasting
-│── 📁 powerbi_dashboard
-│   ├── SalesForecasting.pbix  # Power BI dashboard file
-│── README.md  # Project documentation
-│── requirements.txt  # Python dependencies
-```
 
 ## Future Improvements
 - Implement deep learning models (LSTMs, Transformers) for better accuracy.
